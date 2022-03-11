@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Consumable
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Consumable\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ Quan\ Heal
+comment1.target=Consumable(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ Heal()
+numComments=3
